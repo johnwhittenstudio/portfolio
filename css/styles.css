@@ -30,7 +30,7 @@ h3{
   color: white;
   font-size: 18px;
   font-style: regular;
-  text-align: left;
+  text-align: center;
   margin-left: 15px;
 }
 .center{
@@ -39,4 +39,25 @@ h3{
   margin-right: auto;
   margin-top: 5px;
   width: 80%;
+}
+.about{
+  float: left;
+  width: 25%;
+  text-align: center;
+}  
+.about img{
+  border: 5px solid silver;
+  border-radius: 644px;
+  max-width: 90%;
+  padding-left: 20%;
+}
+h4{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: white;
+  font-size: 18px;
+  font-style: regular;
+  text-align: left;
+  padding-top: 45px;
+  padding-left: 30%;
+}
 }
