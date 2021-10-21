@@ -1,12 +1,26 @@
+body{
+  background-color: black;
+}
 h1{
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 28px;
+  color: white;
+  font-size: 38px;
   font-style: bold;
   text-align: center;
+  padding-top: 20px;
 }
 h2{
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 18px;
+  color: white;
+  font-size: 14px;
   font-style: regular;
   text-align: center;
+}
+h3{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: white;
+  font-size: 18px;
+  font-style: regular;
+  text-align: left;
+  margin-left: 15px;
 }
