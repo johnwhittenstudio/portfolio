@@ -11,7 +11,7 @@ a, a:hover{
   color: aqua;
 }
 h1{
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: Arial;
   color: white;
   font-size: 38px;
   font-style: bold;
@@ -19,33 +19,35 @@ h1{
   padding-top: 20px;
 }
 h2{
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: Arial;
   color: white;
   font-size: 14px;
-  font-style: regular;
+  font-weight: lighter;
   text-align: center;
+  padding-left: 4px;
+  padding-right: 4px;
 }
 h3{
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: Arial;
   color: white;
   font-size: 18px;
-  font-style: regular;
+  font-weight: lighter;
   text-align: center;
   margin-left: 15px;
 }
 h4{
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  color: white;
-  font-size: 18px;
-  font-style: regular;
-  text-align: left;
-  padding-left: 15%;
-}
-h5{
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: Arial;
   color: white;
   font-size: 16px;
-  font-style: light;
+  font-weight: lighter;
+  text-align: left;
+  padding-left: 10%;
+}
+h5{
+  font-family: Arial;
+  color: white;
+  font-size: 14px;
+  font-weight: lighter;
   text-align: left;
 }
 .center{
@@ -57,7 +59,7 @@ h5{
 }
 .about{
   float: left;
-  width: 25%;
+  width: 30%;
   text-align: center;
   margin-left: 25px;
   margin-top: 35px;
@@ -68,9 +70,10 @@ h5{
   max-width: 90%;
 }
 .sidebar{
-  width: 70%;
+  width: 65%;
   float: right;
   border: 2px solid lightgray;
+  border-radius: 50px;
   margin-top: 20px;
-  padding-right: 5px;
+  margin-right: 25px;
 }
