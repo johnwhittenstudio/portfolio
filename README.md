@@ -1,6 +1,6 @@
 # portfolio
 
-#### By _**John Whitten**_
+## By _**John Whitten**_
 
 #### _A simple HTML page introducing myself and some of my experience and interests._
 
