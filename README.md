@@ -15,7 +15,7 @@ _{This is a portfolio webpage, dedicated to introducing myself, communicating so
 
 ## Directions
 
-Download this portfolio from GitHub. 
+Download this portfolio from GitHub at [https://github.com/johnwhittenstudio/portfolio](https://github.com/johnwhittenstudio/portfolio)
 
 Contents include a main Portfolio directory with the following html pages:
 * index.html 
@@ -61,6 +61,6 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 [MIT License](https://opensource.org/licenses/MIT)
 
-_{If you have any questions or encounter any issues with this site, please reach out John at [johnwhitten.studio@gmail.com](mailto:johnwhitten.studio@gmail.com) }_
+_If you encounter any issues with this site, please reach out to John at [johnwhitten.studio@gmail.com](mailto:johnwhitten.studio@gmail.com)_
 
 Copyright (c) _2021_ _John Whitten_
