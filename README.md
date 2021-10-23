@@ -16,10 +16,10 @@ _{This is a portfolio webpage, dedicated to introducing myself, communicating so
 ## Directions
 
 This portfolio site contains 4 pages:
-* [Home Page](index.html)
-* [About Me Page](about.html)
-* [Portfolio Page](portfolio.html)
-* [News Page](news.html)
+* [Home Page](https://johnwhittenstudio.github.io/portfolio/index.html)
+* [About Me Page](https://johnwhittenstudio.github.io/portfolio/about.html)
+* [Portfolio Page](https://johnwhittenstudio.github.io/portfolio/portfolio.html)
+* [News Page](https://johnwhittenstudio.github.io/portfolio/news.html)
 
 
 The home page contains 4 hyperlinked navigation options:
