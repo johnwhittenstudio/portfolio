@@ -94,11 +94,23 @@ h6{
 }
 .portfolio{
   float: left;
+  width: 45%;
+  text-align: center;
+  margin: 2%;
+}  
+.portfolio img{
+  border: 2px solid lightgray;
+  border-radius: 10px;
+  max-width: 90%;
+  padding: 2px;
+}
+.news{
+  float: left;
   width: 25%;
   text-align: center;
   margin-top: 5%;
 }  
-.portfolio img{
+.news img{
   border: 2px solid lightgray;
   border-radius: 10px;
   max-width: 90%;
