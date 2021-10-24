@@ -11,7 +11,7 @@ a, a:hover{
   color: aqua;
 }
 h1{
-  font-family: Arial;
+  font-family: Trebuchet MS;
   color: white;
   font-size: 38px;
   font-style: bold;
@@ -19,16 +19,16 @@ h1{
   padding-top: 20px;
 }
 h2{
-  font-family: Arial;
+  font-family: Trebuchet MS;
   color: white;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: lighter;
   text-align: center;
   padding-left: 4px;
   padding-right: 4px;
 }
 h3{
-  font-family: Arial;
+  font-family: Trebuchet MS;
   color: white;
   font-size: 18px;
   font-weight: lighter;
@@ -36,7 +36,7 @@ h3{
   margin-left: 15px;
 }
 h4{
-  font-family: Arial;
+  font-family: Trebuchet MS;
   color: white;
   font-size: 16px;
   font-weight: lighter;
@@ -44,9 +44,23 @@ h4{
   padding-left: 10%;
 }
 h5{
-  font-family: Arial;
+  font-family: Trebuchet MS;
   color: white;
   font-size: 14px;
+  font-weight: lighter;
+  text-align: left;
+}
+h6{
+  font-family: Trebuchet MS;
+  color: white;
+  font-size: 12px;
+  font-weight: lighter;
+  text-align: center;
+}
+.thunderstruck{
+  font-family: Squealer;
+  color: white;
+  font-size: 12px;
   font-weight: lighter;
   text-align: left;
 }
@@ -68,6 +82,7 @@ h5{
   border: 2px solid lightgray;
   border-radius: 150px;
   max-width: 90%;
+  padding: 1px
 }
 .sidebar{
   width: 65%;
@@ -87,4 +102,5 @@ h5{
   border: 2px solid lightgray;
   border-radius: 10px;
   max-width: 90%;
+  padding: 2px;
 }
