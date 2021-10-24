@@ -64,6 +64,8 @@ The "News" page contains a sample of recent news related to John's studio artwor
  
 ## License
 
+[MIT License](https://opensource.org/licenses/MIT)
+
 If you encounter any issues with this site, please contact John Whitten at [johnwhitten.studio@gmail.com](http://mailto:johnwhitten.studio@gmail.com)
 
 Copyright (c) 2021 John Whitten
