@@ -1,12 +1,5 @@
-# 
-[MIT License](https://opensource.org/licenses/MIT)
- 
-_If you encounter any issues with this site, please reach out to John at [johnwhitten.studio@gmail.com](mailto:johnwhitten.studio@gmail.com)_
- 
-Copyright (c) _2021_ _John Whitten_
-Portfolio
- 
-## By _**John Whitten**_
+# Portfolio
+## by _**John Whitten**_
  
 #### _A simple HTML page introducing myself and some of my experience and interests._
  
@@ -43,13 +36,13 @@ This portfolio site contains 4 pages:
 * [News Page](https://johnwhittenstudio.github.io/portfolio/news.html)
  
  
-Each page contains 4 hyperlinked navigation options:
+Each page contains 4 hyperlinked navigation titles:
 1. "John Whitten"
 2. "About"
 3. "Portfolio"
 4. "News"
  
-By clicking on any of navigation titles, you'll be taken to that page in the site. Clicking on "John Whitten" on any page takes you to the index or main page, which contains an animated GIF created by John Whitten.
+By clicking on a navigation title, you'll be taken to that page in the site. Clicking on "John Whitten" on any page takes you to the index or main page, which contains an animated GIF created by John Whitten.
  
 The "About" page contains a headshot image of John Whitten and text with "Well Well Projects", "Carnation Contemporary", "Charles Hartman Fine Art", and "Epicodus" hyperlinked to those respective websites.
  
@@ -63,9 +56,9 @@ The "News" page contains a sample of recent news related to John's studio artwor
 * _Issues rebasing gh-pages, which seems to stem from an issue with the README?._
  
 ## License
-
+ 
 [MIT License](https://opensource.org/licenses/MIT)
-
-If you encounter any issues with this site, please contact John Whitten at [johnwhitten.studio@gmail.com](http://mailto:johnwhitten.studio@gmail.com)
-
-Copyright (c) 2021 John Whitten
+ 
+_If you encounter any issues with this site, please contact John at [johnwhitten.studio@gmail.com](mailto:johnwhitten.studio@gmail.com)_
+ 
+Copyright (c) _2021_ _John Whitten_
